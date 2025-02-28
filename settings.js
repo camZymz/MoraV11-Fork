@@ -1,22 +1,22 @@
 const fs = require('fs');
 const chalk = require('chalk');
 
-global.botName = 'moraAI version 11'; // Nama Bot Kamu
-global.ownerNumber = '6285520728156'; // Nomor Kamu
-global.ownerName = 'Your Name'; // Nama Kamu
-global.website = 'https://www.example.my.id'; // Web Kamu
-global.wagc = 'https://www.example.my.id'; // Web Kamu
+global.botName = '𝙇𝙪𝙣𝙤𝙭-𝘽𝙤𝙩𝙕'; // Nama Bot Kamu
+global.ownerNumber = '6283853787611'; // Nomor Kamu
+global.ownerName = '𝒁𝒚𝒎𝒛𝒛'; // Nama Kamu
+global.website = 'https://chat.whatsapp.com/Jv5SIEQV3jNGpIvWy2lmSC'; // Web Kamu
+global.wagc = 'https://chat.whatsapp.com/Jv5SIEQV3jNGpIvWy2lmSC'; // Web Kamu
 
 global.packname = botName; // Nama Pack
 global.author = ownerName; // Nama Author
-global.footer = '© 2025 • K.R team';
-global.creator = '6283119115977@s.whatsapp.net'; // Nomor Creator
-global.premium = ['6285520728156']; // User Premium
+global.footer = '© 𝒁𝒚𝒎𝒛𝒛 • BotZ';
+global.creator = '6283853787611@s.whatsapp.net'; // Nomor Creator
+global.premium = ['6283853787611']; // User Premium
 global.prefa = '.'; // Prefix
 global.tempatDB = 'database.json'; // Tempat Database
 
-global.saluran = '0@newsletter'; // ID Saluran Kamu
-global.saluranName = ownerName; // Nama Saluran Kamu
+global.saluran = '120363300298271061@newsletter'; // ID Saluran Kamu
+global.saluranName = "SALURAN PAJANGAN 🗿"; // Nama Saluran Kamu
 global.sessionName = 'session'; // Nama Folder Sesi Bot Kamu
 
 global.panel = ''; // Link Panel Kamu
@@ -26,7 +26,7 @@ global.eggs = '15'; // Eggs Number (Recommended)
 global.nets = '5'; // Nets Number (Recommended)
 global.location = '1'; // Location Number (Recommended)
 
-global.typereply = 'v4'; // Gaya Reply v1-v4
+global.typereply = 'v2'; // Gaya Reply v1-v4
 global.autoblocknumber = '62'; // Auto Block Number
 global.antiforeignnumber = '62'; // Anti Foreign Number
 global.welcome = false // Auto Welcome Msg
@@ -36,20 +36,20 @@ global.adminevent = false // Admin Event Msg
 global.groupevent = false // Group Event Msg
 global.notifRegister = false // Notif Register
 global.onlyRegister = false // Hanya Pendaftar
-global.autoClearSesi = false // Otomatis hapus file sesi setiap 1 jam
+global.autoClearSesi = true // Otomatis hapus file sesi setiap 1 jam
 global.autoClearTmp = true // Otomatis hapus file temp setiap 1 jam
 
 global.payment = {
-	dana: "0815-4849-6371",
-	gopay: "0855-2072-8156",
-	ovo: "0855-2072-8156",
-	qris: "https://files.catbox.moe/sofmb4.jpg",
-	shopeePay: "0855-2072-8156",
-	seabank: "0855-2072-8156"
+	dana: "6283853787611",
+	gopay: "6283853787611",
+	ovo: "6283853787611",
+	qris: "-",
+	shopeePay: "6283853787611",
+	seabank: "-"
 };
 
 global.limit = {
-	free: 20, // Limit User Non-premium
+	free: 35, // Limit User Non-premium
 	premium: 1000, // Limit User Premium
 	vip: "VIP" // Limit User VIP 👑
 };
