@@ -26,18 +26,18 @@ global.eggs = '15'; // Eggs Number (Recommended)
 global.nets = '5'; // Nets Number (Recommended)
 global.location = '1'; // Location Number (Recommended)
 
-global.typereply = 'v2'; // Gaya Reply v1-v4
+global.typereply = 'v1'; // Gaya Reply v1-v4
 global.autoblocknumber = '62'; // Auto Block Number
 global.antiforeignnumber = '62'; // Anti Foreign Number
-global.welcome = false // Auto Welcome Msg
+global.welcome = true // Auto Welcome Msg
 global.anticall = true // Anti Call
-global.autoswview = true // Auto View Status
+global.autoswview = false // Auto View Status
 global.adminevent = false // Admin Event Msg
 global.groupevent = false // Group Event Msg
 global.notifRegister = false // Notif Register
 global.onlyRegister = false // Hanya Pendaftar
-global.autoClearSesi = true // Otomatis hapus file sesi setiap 1 jam
-global.autoClearTmp = true // Otomatis hapus file temp setiap 1 jam
+global.autoClearSesi = false // Otomatis hapus file sesi setiap 1 jam
+global.autoClearTmp = false // Otomatis hapus file temp setiap 1 jam
 
 global.payment = {
 	dana: "6283853787611",
